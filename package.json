@@ -1,0 +1,13 @@
+{
+  "name": "npm-audit-bug",
+  "description": "npm audit should show the actual package in package.json that depends on the vulnerable package",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "firebase-tools": "^13.6.0",
+    "lodash": "^4.17.21"
+  }
+}
